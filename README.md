@@ -1,8 +1,8 @@
-# Hey, I'm Joshua 👋
+# Hello World 👋
 
-I'm a New Grad Computer Science student at **Wilfrid Laurier University**, passionate about distributed systems, high-performance computing, and building things that scale. 🚀
+I'm Joshua, a new grad Computer Science student from **Wilfrid Laurier University**, passionate about distributed systems, high-performance computing, and building things that scale. 🚀
 
-Currently based in **Scarborough, ON** and open to new grad opportunities!
+You can find me coding, building things that spark my curiosity, lying on the floor with my dog, and exploring new things.
 
 ---
 
@@ -14,13 +14,11 @@ Currently based in **Scarborough, ON** and open to new grad opportunities!
 
 ---
 
-## 💼 Experience Highlights
+## 💼 About Me
 
-**Software Engineer Intern @ Huawei Technologies** *(May 2024 – Aug 2025)*  
-Working in the Distributed Data & Storage Management (DDSM) Lab across two teams:
+🧑🏻‍💻 **New Grad Looking for opportunities** *2026*
 
-- 📦 **Stream Processing** — Built producer-consumer mechanisms for distributed streaming (Kafka/Flink-inspired), optimized CI/CD pipelines (30% runtime reduction), and ran multi-node benchmarks scaling to 100 nodes
-- ⚡ **KV Cache** — Prototyped RDMA-based memory access, redesigned `get` operation workflows with batching & parallelization for up to **80% performance improvement**, and reduced get latency by **200%**
+👔 Previous Software Engineer Intern at Huawei
 
 ---
 
