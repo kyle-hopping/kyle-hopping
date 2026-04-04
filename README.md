@@ -6,19 +6,19 @@ You can find me coding, building things that spark my curiosity, lying on the fl
 
 ---
 
+## 🧑🏻‍💻 About Me
+
+💼 **New Grad Looking for opportunities** *2026*
+
+👔 Previous Software Engineer Intern at Huawei
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** Python · Java · C/C++ · Go · SQL · HTML/CSS  
 **Frameworks & Tools:** Docker · Kubernetes · Redis · gRPC · Jenkins · Prometheus · RDMA  
 **Concepts:** Distributed Systems · CI/CD · TCP/IP · Agile · OOP
-
----
-
-## 💼 About Me
-
-🧑🏻‍💻 **New Grad Looking for opportunities** *2026*
-
-👔 Previous Software Engineer Intern at Huawei
 
 ---
 
