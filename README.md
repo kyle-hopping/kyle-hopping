@@ -33,8 +33,9 @@ Desktop budgeting app with an expense tracker, savings allocator, financial goal
 **🍽️ [Find Dine](https://github.com/kyle-hopping/Find-Dine)** — *HawkHacks 2022 · Winner: Best Use of Google Cloud*  
 A personalized itinerary generator for local attractions using the Google Maps & Places API. Built with a team of 4 in 36 hours among 650+ participants.
 
-**🔢 [Parallel Prime Gap Analyzer](https://github.com/kyle-hopping/parallel-mpi)** — *C · MPI · HPC*  
-Distributed app analyzing prime gaps over ranges up to 10¹² on SciNet's HPC cluster. Achieved ~3.7× speedup scaling from 2 → 8 processes using a parallelized segmented Sieve of Eratosthenes.
+**🔢 [MPI Algorithm Suite](https://github.com/kyle-hopping/parallel-mpi)** — *C · MPI · HPC*  
+A suite of high‑performance MPI programs tackling classic parallel‑computing problems: dense & sparse PageRank, co‑rank parallel merging, and a distributed segmented sieve for trillion‑scale prime‑gap analysis.
+Designed for scalability, low‑overhead communication, and clean parallel decomposition.
 
 ---
 
