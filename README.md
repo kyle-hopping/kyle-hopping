@@ -39,7 +39,7 @@ Software engineering principles in Python, the OpenAI API (incl. the Responses A
 
 ## 🔭 Projects
 
-**🤖 [Tiny Agent](https://github.com/kyle-hopping/research-agent)** — *Python · Groq · Chroma · asyncio · RAG · pytest*  
+**🤖 [Research Agent](https://github.com/kyle-hopping/research-agent)** — *Python · Groq · Chroma · asyncio · RAG · pytest*  
 Tool-using AI agent built from scratch with no agent framework, featuring web search, a sandboxed calculator, and long-term semantic memory with automatic recall. Includes a multi-agent research team where a planner, concurrent async researchers, a writer, and a critic produce fact-checked, cited reports.
 
 **🦜 [LangChain Playground](https://github.com/kyle-hopping/langchain-playground)** — *Python · LangChain · Groq · Embeddings · RAG*  
